@@ -13,7 +13,7 @@ I'm a **Frontend Software Engineer** based in **Belfast, Northern Ireland**, wit
   - **Topolyne/react**: an open-source React SDK and visual editor for custom MapLibre/OpenMapTiles maps
   - [**Eurker**](https://eurker.com): uptime monitoring with SMS and email alerts (Next.js, GCP Cloud Functions, Firebase, Twilio, SendGrid)
   - **PowerliftMax**: an iOS app for tracking powerlifting progress (React Native/Expo)
-- **Volunteer SAR Technician** with Lagan Search & Rescue, covering Belfast Harbour and the surrounding areas (SARTECH qualified).
+- **Volunteer SAR Technician** with Lagan Search & Rescue, covering Belfast Harbour and the surrounding areas.
 - **Currently learning:** machine learning, WebGL/Three.js and 3D on the web
 
 [![Currently learning](https://skillicons.dev/icons?i=threejs,pytorch,tensorflow,sklearn)](https://skillicons.dev)
